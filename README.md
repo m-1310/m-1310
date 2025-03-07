@@ -32,7 +32,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=chep1310&theme=onedark&no-frame=true&no-bg=true&margin-w=4) -->
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+![](https://quotes-github-readme.vercel.app/api?type=vertical&theme=dark)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=chep1310&icon=10&color=2)](https://visitcount.itsvg.in)
