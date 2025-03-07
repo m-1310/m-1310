@@ -24,11 +24,11 @@
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=chep1310&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
+![](https://nirzak-streak-stats.vercel.app/?user=chep1310&theme=dark&hide_border=true)<br>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=chep1310&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-![](https://nirzak-streak-stats.vercel.app/?user=chep1310&theme=dark&hide_border=true)
-
-### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vertical&theme=dark)
+
+<!-- ### ✍️ Random Dev Quote -->
 
 [![](https://visitcount.itsvg.in/api?id=chep1310&icon=10&color=2)](https://visitcount.itsvg.in)
 
