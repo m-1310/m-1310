@@ -1,7 +1,6 @@
 # 💫 About Me:
 ⌨Currently Working on my own Webpage💻<br>👨‍🎓Masters in Computer Applications<br>
 
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/manishkumar1310) 
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:manish356111@gmail.com) 
