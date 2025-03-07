@@ -25,11 +25,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=chep1310&theme=transparent&hide_border=true&include_all_commits=true&count_private=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=chep1310&theme=transparent&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 ![](https://nirzak-streak-stats.vercel.app/?user=chep1310&theme=transparent&hide_border=true)<br><br>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/chep1310/chep1310/output/github-snake-dark.svg" />
- 
-  <img alt="github-snake" src="https://raw.githubusercontent.com/chep1310/chep1310/output/github-snake.svg" />
-</picture>
 
 
 ---
@@ -37,4 +32,10 @@
 
 ### ✍️ Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/chep1310/chep1310/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/chep1310/chep1310/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/chep1310/chep1310/output/github-snake.svg" />
+</picture>
 
