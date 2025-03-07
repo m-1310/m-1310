@@ -23,9 +23,9 @@
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=chep1310&theme=transparent&hide_border=true&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=chep1310&theme=transparent&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=chep1310&theme=transparent&hide_border=true&include_all_commits=true&count_private=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=chep1310&theme=transparent&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+![](https://nirzak-streak-stats.vercel.app/?user=chep1310&theme=transparent&hide_border=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=chep1310&icon=10&color=2)](https://visitcount.itsvg.in)
