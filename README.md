@@ -1,5 +1,6 @@
 # 💫 About Me:
-⌨Currently Working on my own Webpage💻<br>👨‍🎓Masters of Computer Applications  |  [RESUME](https://drive.google.com/file/d/1IjN7QiLCHh_lySCkWIJDv7B9zxREER_D/view?usp=sharing)<br>
+⌨Currently Working on my own Webpage💻<br>
+👨‍🎓Masters of Computer Applications  |  [RESUME](https://drive.google.com/file/d/1IjN7QiLCHh_lySCkWIJDv7B9zxREER_D/view?usp=sharing)<br>
 
 # 💻 Tech Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
