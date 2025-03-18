@@ -1,8 +1,8 @@
 # 💫 About Me:
 ⌨Currently Working on my own Webpage💻<br>
 👨‍🎓Masters of Computer Applications<br>
-📩[Resume](https://drive.google.com/file/d/1wkdPPiCP5g-tO1H1oVe2fHXJyPugBT0E/view?usp=sharing)<br>
 📨Mail :  [work.manish.kumar13@gmail.com](mailto:work.manish.kumar13@gmail.com)<br>
+📩[Resume](https://drive.google.com/file/d/1wkdPPiCP5g-tO1H1oVe2fHXJyPugBT0E/view?usp=sharing)<br>
 
 # 💻 Tech Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
