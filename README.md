@@ -1,6 +1,7 @@
 # 💫 About Me:
 ⌨Currently Working on my own Webpage💻<br>
-👨‍🎓Masters of Computer Applications  |  [RESUME](https://drive.google.com/file/d/1wkdPPiCP5g-tO1H1oVe2fHXJyPugBT0E/view?usp=sharing)<br>
+👨‍🎓Masters of Computer Applications<br>
+📩[Resume](https://drive.google.com/file/d/1wkdPPiCP5g-tO1H1oVe2fHXJyPugBT0E/view?usp=sharing)
 📨Mail :  [work.manish.kumar13@gmail.com](mailto:work.manish.kumar13@gmail.com)<br>
 
 # 💻 Tech Stack:
